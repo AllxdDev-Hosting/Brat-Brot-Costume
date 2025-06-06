@@ -1,4 +1,4 @@
-# 🚀 Brat Bret Brot - Yosh Casaster
+# 🚀 Brat Bret Brot - AllxdDev
 
 ![Preview](https://pomf2.lain.la/f/31ceezz7.png)
 
@@ -74,7 +74,7 @@ Punya ide keren? Pull request always welcome!
 ---
 
 ## 📞 Kontak
-📌 **Author:** Yosh Casaster  
+📌 **Author:** AllxdDev  
 🔗 **GitHub:** [AllxdDev-Hosting](https://github.com/AllxdDev-Hosting)  
 📷 **TikTok:** [@allxddev_hosting](https://tiktok.com/allxddev_hosting)  
 
