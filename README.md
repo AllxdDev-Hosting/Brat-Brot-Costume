@@ -11,7 +11,7 @@ Brat Bret Brot adalah proyek keren yang dibuat dengan React + Vite + TailwindCSS
 - 🛠️ Linter dan TypeScript buat kode lebih rapi
 - ⚡ Ikon modern pakai Lucide React
 
-🔗 **Cek Demo:** [Klik Disini](bratbrot.netlify.app)
+🔗 **Cek Demo:** [Klik Disini](https://brat-allxd.vercel.app)
 
 ---
 
