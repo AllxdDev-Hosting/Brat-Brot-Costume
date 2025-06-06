@@ -1,6 +1,6 @@
 # 🚀 Brat Bret Brot - AllxdDev
 
-![Preview](https://pomf2.lain.la/f/31ceezz7.png)
+![Preview](https://github.com/AllxdDev-Hosting/Brat-Brot-Costume/blob/main/Screenshot_20250606-224853.jpg)
 
 ## 🎮 Apa Ini?
 Brat Bret Brot adalah proyek keren yang dibuat dengan React + Vite + TailwindCSS. Simple, cepet, dan pastinya mantap buat dipake!
